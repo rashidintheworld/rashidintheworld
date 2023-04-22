@@ -19,7 +19,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rashidintheworld&limit=5&theme=oldie&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-![Random Developer Joke](https://icanhazdadjoke.com/j/programming/random?format=png)
+![Developer Humor](https://readme-jokes.vercel.app/api)
+
 
 
 ---
