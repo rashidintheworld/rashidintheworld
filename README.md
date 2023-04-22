@@ -19,7 +19,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rashidintheworld&limit=5&theme=oldie&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+![Random Developer Joke](https://icanhazdadjoke.com/j/programming/random?format=png)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rashidintheworld&icon=3&color=0)](https://visitcount.itsvg.in)
